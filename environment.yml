@@ -1,0 +1,9 @@
+name: stat
+channels:
+  - conda-forge
+dependencies:
+  - pandas=1.2.3
+  - pip=21.0.1
+  - python=3.9.2
+  - scikit-learn=0.24.1
+  - scipy=1.6.1
